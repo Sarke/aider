@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: General Support
+    url: https://example.com/support
+    about: If you have a general question, please visit our support page.
+  - name: Bug Report
+    url: https://github.com/yourusername/yourrepository/issues/new?template=bug_report.md
+    about: Report a bug in our application.
+  - name: Feature Request
+    url: https://github.com/Sarke/aider/projects
+    about: Suggest a new feature for our project.
